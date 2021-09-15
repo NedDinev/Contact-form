@@ -1,0 +1,59 @@
+body{
+    font-family: Georgia, "Times New Roman", serif;
+Background-color: #F7F7F7;
+
+}
+
+main{
+    width: 25%;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+    border: 1px solid #888;
+    padding: 25px;
+    color: #888;
+
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+}
+
+input, textarea, select{
+    color: #888;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #888;
+    padding: 8px;
+    width: 320px;
+}
+
+select{
+    width: 340px;
+}
+
+
+label{
+    vertical-align: top;
+
+}
+
+.message {
+    margin-left: 20px;
+}
+.subject {
+    margin-left: 28px;
+}
+
+input[type=submit] {
+border: 1px solid #E27575;
+border-radius: 5px;
+background-color: #E27575;
+color: #F7F7F7;
+width: 200px;
+margin-left: 21%;
+}
